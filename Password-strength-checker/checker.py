@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+'#!/usr/bin/env python3  -----> For Linux ' 
 password = input("Enter your password: ")
 
 length = len(password)
